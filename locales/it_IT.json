@@ -3263,11 +3263,11 @@
           "markets": "[Translation required: Gain access to secondary markets on Ethereum, e.g. Uniswap]",
           "staking": "[Translation required: Stake NEP-5 NEX tokens to receive dividends]"
         },
-        "tier-verification": "[Translation required: To convert NEX, please complete <0>Tier 1 verification</0>.]",
-        "minimum-amount": "[Translation required: Minimum conversion of {{amount}}]",
-        "modal-title": "[Translation required: Convert {{from}} to {{to}}]",
-        "convert-with-currency": "[Translation required: Convert {{currency}}]",
-        "conversion-started": "[Translation required: Conversion started]"
+        "tier-verification": "Per convertire NEX, completa <0>la verifica di primo livello</0>.",
+        "minimum-amount": "Minima conversione è di {{amount}}",
+        "modal-title": "Converti {{from}} a {{to}}",
+        "convert-with-currency": "Converti {{currency}}",
+        "conversion-started": "Conversione iniziata"
       },
       "receive-assets": {
         "wallet-address": "Indirizzo portafoglio",
@@ -3285,11 +3285,11 @@
         "dismiss-link": "Rimuovi per sempre e continua"
       },
       "select-asset": {
-        "search-placeholder": "[Translation required: Search over 3,000 assets…]",
-        "title-receive": "[Translation required: Select an asset to receive]",
-        "title-send": "[Translation required: Select an asset to send]",
-        "show-usd-value": "[Translation required: Show USD value]",
-        "available-balance": "[Translation required: Available balance]",
+        "search-placeholder": "Cerca tra piu di 3,000 asset…]",
+        "title-receive": "Seleziona un asset da inviare",
+        "title-send": "Seleziona un asset da inviare",
+        "show-usd-value": "Mostra il valure in USD",
+        "available-balance": "Saldo disponibile",
         "groups": {
           "yours": "I tuoi asset",
           "popular": "Asset popolari",
@@ -4760,40 +4760,40 @@
       "others": "[Translation required: Others]"
     },
     "s02": {
-      "competition-starts": "[Translation required: Competition starts]",
-      "competition-ends": "[Translation required: Competition ends]",
-      "rookies": "[Translation required: Rookies]",
-      "user-welcome": "[Translation required: Welcome,]",
+      "competition-starts": "La competizione inizia",
+      "competition-ends": "La competizione finisce",
+      "rookies": "Reclute",
+      "user-welcome": "Benvenuto/a,]",
       "prize": {
-        "title": "[Translation required: $10,000 NEW PRIZES PER $10M VOLUME]",
-        "desc-1": "[Translation required: Just trade on Nash to get your share!]",
-        "desc-2": "[Translation required: All users are automatically registered as solo participants, but you can join a squad to win an additional prize.]",
-        "desc-3": "[Translation required: The more volume generated throughout the competition, the more prizes are paid out!]",
-        "total-volume": "[Translation required: Total exchange volume]",
-        "unlocked-prize": "[Translation required: Unlocked prizes]",
+        "title": "$10,000 IN PREMI OGNI $10M DI VOLUME SCAMBIATO",
+        "desc-1": "Semplicemente fai trading su Nash per ottenere la tua quota!",
+        "desc-2": "Tutti gli utenti sono automaticamente registrati come partecipanti in solitario, ma puoi unirti a una squadra per vincere un premio addizionale.",
+        "desc-3": "Maggiore è il volume generato durante la competizione, più premi vengono distribuiti!",
+        "total-volume": "Volume di scambio totale",
+        "unlocked-prize": "Premi sbloccati",
         "prize-split": "[Translation required: Prize split]",
-        "no-prizes-unlocked": "[Translation required: No prizes unlocked yet]",
-        "all-solos": "[Translation required: All solos]",
-        "squad-prizes-split": "[Translation required: {{count}} squad]",
-        "squad-prizes-split_plural": "[Translation required: {{count}} squads]",
-        "volume-tier": "[Translation required: Volume tier]",
-        "volume-remainning": "[Translation required: Volume remaining for the this level]"
+        "no-prizes-unlocked": "Non ci sono premi sbloccati ancora",
+        "all-solos": "Tutti gli assoli",
+        "squad-prizes-split": "{{count}} squadra",
+        "squad-prizes-split_plural": "{{count}} squadre",
+        "volume-tier": "Livello del volume",
+        "volume-remainning": "Volume rimanente per questo livello"
       },
       "create-squad": {
-        "description": "[Translation required: Captains receive a guaranteed 5% of a squad’s prize!]",
-        "create-squad-modal-message": "[Translation required: Once you create your squad, you will not be able to leave it or join a new one. Your squad must have at least 5 members when the competition begins, otherwise it will be disbanded.]"
+        "description": "I capitani ricevono il 5% garantito del premio totale di una squadra!",
+        "create-squad-modal-message": "Una volta creata la tua squadra, non potrai più abbandonarla o unirti a una nuova. La tua squadra deve avere almeno 5 membri all'inizio della competizione, altrimenti verrà sciolta."
       },
       "competition-table": {
-        "divider-squad-unsafe": "[Translation required: These squads have not met the 5-person limit.]",
-        "week-prize": "[Translation required: Week {{week}}]",
-        "previous-week": "[Translation required: Previous week]",
-        "next-week": "[Translation required: Next week]"
+        "divider-squad-unsafe": "Queste squadre non hanno raggiunto il limite di 5 persone.",
+        "week-prize": "Settimana {{week}}",
+        "previous-week": "Scorsa settimana",
+        "next-week": "Prossima settimana"
       },
       "competition-info": {
-        "competition-ended": "[Translation required: Season 2 of Nash League is now over!]",
-        "welcome-rookie": "[Translation required: Welcome to Nash, Rookie!]",
-        "how-it-works-rookie": "[Translation required: Our top new traders each week get a share of 1,000 NEX tokens! <0>Learn more</0>]",
-        "rewards-rokie": "[Translation required: NEX rewards: {{prize}}]"
+        "competition-ended": "La stagione 2 della lega di Nash è terminata!",
+        "welcome-rookie": "Benvenuto a Nash, Rookie!",
+        "how-it-works-rookie": "[Translation required:I nostri nuovi migliori trader ogni settimana ricevono un totale di 1,000 token NEX! <0>Scopri di più</0>",
+        "rewards-rokie": "Premi {{prize}}"
       }
     }
   }
