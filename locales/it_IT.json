@@ -54,7 +54,7 @@
   "approve-currency": "Approva {{currency}}",
   "approve-currency-once": "[Translation required: You will need to approve transfers of this asset once.]",
   "approve-currency-everytime": "[Translation required: You will need to approve transfers of this asset every time.]",
-  "approve-currency-loading": "[Translation required: This can take up to 1 minute]",
+  "approve-currency-loading": "Questo può richiedere fino a 1 minuto",
   "verified": "Verificato",
   "nash-cash": "Nash Cash",
   "nex-staking": "[Translation required: NEX staking]",
